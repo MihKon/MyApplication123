@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application123</string>
+    <string name="txt1">Фаимилия</string>
+    <string name="txt2">Имя</string>
+    <string name="txt3">Отчество</string>
+    <string name="txt4">Год</string>
+    <string name="txt5">Школа</string>
+    <string name="txt6">Город</string>
+    <string name="txt7">Опыт программирования</string>
+    <string name="txt8">Знание языков программирования</string>
+
+</resources>
